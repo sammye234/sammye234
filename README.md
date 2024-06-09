@@ -8,6 +8,10 @@ I have developed a solid understanding of mathematics, I have good debugging and
 Python programming skills that would allow me to perform tasks accurately and efficiently. 
 I am a quick learner, highly adaptable, and eager to apply my skills in a professional setting.</a>
 
+<h2>👨‍💻 Projects:</h2>
+
+- <b>InstantCash: Developed an online money transaction software with my peers using Php, HTML and mySQL </b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
