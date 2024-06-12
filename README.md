@@ -1,58 +1,36 @@
 # Hi there, I'm Samiha Tasnim 👋
-<a>I am studying Computer Science and Engineering in Brac University, Bangladesh</a>
+
+I am studying **Computer Science and Engineering** at **BRAC University, Bangladesh**.
+
 ## About Me
 
-I'm a programmer with a passion for machine learning. I love working on projects that involve the fields of artificial intelligence, data science, and HCI.
+I'm a programmer with a passion for **machine learning**. I love working on projects in the fields of **artificial intelligence, data science, and HCI**.
 
 ## Skills
 
-- **Languages:** Python, HTML, Php, MySQL
-- **Frameworks:** React.js, Django, Flask, Laravel
-- **Tools:** VSCode, Anaconda, PyCharm
+| **Languages**       | **Frameworks**    | **Tools**          |
+|---------------------|-------------------|--------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   | ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)    | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)   |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)     | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)     | ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)      | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)      | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)   |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)     | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)     |                        |
 
 ## Projects
 
-### [Project 1: InstantCash]
+### [InstantCash](https://github.com/sammye234/InstantCash.git)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1)](https://github.com/yourusername/project1)
+InstantCash is a money transaction website where you can add, send, check your balance, pay bills, recharge your phone, and perform cash-in and cash-out from various banks and through credit/debit cards. The languages used in the development are HTML, MySQL, and PHP. We decided to build this because mobile banking has become relevant in recent years, offering unparalleled convenience, security, and control over one's finances.
 
-Description: A brief description of what the project is about, the technologies used, and why it's interesting.
+## Connect with Me
 
-### [Project 2 Name]
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2)](https://github.com/yourusername/project2)
-
-Description: A brief description of what the project is about, the technologies used, and why it's interesting.
-
-## Contact
-
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/samiha-tasnim-b85784310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=purple)](https://www.instagram.com/_.sammy.exe._?igsh=bmIxZXZzZW1ydnZ3&utm_source=qr)
+- [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue)](https://m.facebook.com/samiha.tasnim.5855?mibextid=LQQJ4d)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tasnimsamiha00@gmail.com)
 
 ---
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-
-
-<h2>👨‍💻 Fields and Expertise:</h2>
-
-<a>I have a keen interest in machine learning and have always been passionate about learning more about
-the fields of artificial intelligence, data science, and HCI. Throughout my academic career, 
-I have developed a solid understanding of mathematics, I have good debugging and 
-Python programming skills that would allow me to perform tasks accurately and efficiently. 
-I am a quick learner, highly adaptable, and eager to apply my skills in a professional setting.</a>
-
-<h2>👨‍💻 Projects:</h2>
-
-- <b>InstantCash: Developed an online money transaction software with my peers using Php, HTML and mySQL </b>
-
-
-<h2> 🤳 Connect with me:</h2>
-
-- <a href="https://www.linkedin.com/in/samiha-tasnim-b85784310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
-- <a href="https://www.instagram.com/_.sammy.exe._?igsh=bmIxZXZzZW1ydnZ3&utm_source=qr">Instagram</a> 
-- <a href="https://m.facebook.com/samiha.tasnim.5855?mibextid=LQQJ4d">Facebook</a>
+<!-- Add your animation here -->
+![Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 <!--
 **sammye234/sammye234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,3 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
