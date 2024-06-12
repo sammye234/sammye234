@@ -1,4 +1,39 @@
-<h1>Hi, I'm Samiha! <br/><a>Programmer</a>, <a>Studying Computer Science and Engineering in Brac University, Bangladesh</a>
+# Hi there, I'm Samiha Tasnim 👋
+<a>I am studying Computer Science and Engineering in Brac University, Bangladesh</a>
+## About Me
+
+I'm a programmer with a passion for machine learning. I love working on projects that involve the fields of artificial intelligence, data science, and HCI.
+
+## Skills
+
+- **Languages:** Python, HTML, Php, MySQL
+- **Frameworks:** React.js, Django, Flask, Laravel
+- **Tools:** VSCode, Anaconda, PyCharm
+
+## Projects
+
+### [Project 1: InstantCash]
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1)](https://github.com/yourusername/project1)
+
+Description: A brief description of what the project is about, the technologies used, and why it's interesting.
+
+### [Project 2 Name]
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2)](https://github.com/yourusername/project2)
+
+Description: A brief description of what the project is about, the technologies used, and why it's interesting.
+
+## Contact
+
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn Profile]
+
+---
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+
 
 <h2>👨‍💻 Fields and Expertise:</h2>
 
