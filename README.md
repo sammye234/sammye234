@@ -29,6 +29,10 @@ InstantCash is a money transaction website where you can add, send, check your b
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tasnimsamiha00@gmail.com)
 
 ---
+### Snake Game Animation
+
+![Snake Game Animation](https://your-repo-url/path-to-your-snake-game.gif)
+
 <!-- Add your animation here -->
 ![Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
