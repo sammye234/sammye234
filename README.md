@@ -29,13 +29,15 @@ InstantCash is a money transaction website where you can add, send, check your b
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tasnimsamiha00@gmail.com)
 
 ---
-### Snake Game Animation
 
-![Snake Game Animation](https://your-repo-url/path-to-your-snake-game.gif)
 
 <!-- Add your animation here -->
-![Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
+
+
+<div style="text-align: center;">
+    <img src="https://github.com/sammye234/sammye234/blob/main/8tl3bd.gif?raw=true" alt="Geometry Dash Animation" width="500" height="300">
+</div>
 <!--
 **sammye234/sammye234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
