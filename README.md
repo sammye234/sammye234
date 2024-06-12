@@ -1,6 +1,6 @@
 # Hi there, I'm Samiha Tasnim 👋
 
-I am studying **Computer Science and Engineering** at **BRAC University, Bangladesh**.
+Studying **Computer Science and Engineering** at **BRAC University, Bangladesh**.
 
 ## About Me
 
